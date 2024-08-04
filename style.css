@@ -96,3 +96,30 @@ h4 {
   color: black;
   line-height: 1.4;
 }
+
+h1 {
+  font-family: filosofia, serif;
+  font-style: normal;
+  font-weight: 700;
+  color: #cd515b;
+  font-size: 45px;
+}
+
+h2 {
+  font-family: filosofia, serif;
+  font-style: normal;
+  font-weight: 700;
+  color: #cd515b;
+  font-size: 45px;
+  text-align: center;
+}
+
+.omtekst,
+p {
+  font-family: "futura-pt", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 22px;
+  color: black;
+  line-height: 1.6;
+}

@@ -10,6 +10,21 @@ img.frontphoto {
   max-height: 700px;
 }
 
+img.bordin {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+img.bordin2 {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+img.migphoto {
+  max-width: 500px;
+  max-height: 700px;
+}
+
 @media (min-width: 800px) {
   .grid_1-1 {
     display: grid;
