@@ -60,3 +60,39 @@ body {
 header {
   background-color: #f2d9d0;
 }
+
+.portlink {
+  text-decoration: none;
+  color: #fcfbfa;
+  font-size: 20px;
+  font-family: filosofia, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.portbtn {
+  display: flex;
+  align-items: center;
+  background-color: #cd515b;
+
+  padding: 10px 20px;
+  border: 2px solid #fcfbfa;
+  border-radius: 8px;
+  width: fit-content;
+  text-decoration: none;
+  position: absolute;
+}
+
+.portbtn a:hover {
+  text-decoration: underline;
+}
+
+.fronttekst,
+h4 {
+  font-family: "futura-pt", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 30px;
+  color: black;
+  line-height: 1.4;
+}
