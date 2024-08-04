@@ -25,6 +25,26 @@ img.migphoto {
   max-height: 700px;
 }
 
+img.tema2 {
+  max-width: 700px;
+  max-height: 700px;
+}
+
+img.tema3 {
+  max-width: 700px;
+  max-height: 700px;
+}
+
+img.tema4 {
+  max-width: 700px;
+  max-height: 700px;
+}
+
+img.temanr5 {
+  max-width: 700px;
+  max-height: 700px;
+}
+
 @media (min-width: 800px) {
   .grid_1-1 {
     display: grid;
