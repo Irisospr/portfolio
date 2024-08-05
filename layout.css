@@ -26,23 +26,23 @@ img.migphoto {
 }
 
 img.tema2 {
-  max-width: 700px;
-  max-height: 700px;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 img.tema3 {
-  max-width: 700px;
-  max-height: 700px;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 img.tema4 {
-  max-width: 700px;
-  max-height: 700px;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 img.tema5 {
-  max-width: 700px;
-  max-height: 700px;
+  max-width: 100%;
+  max-height: 100%;
 }
 
 @media (min-width: 800px) {
