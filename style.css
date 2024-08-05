@@ -131,3 +131,14 @@ p {
 .fronttekst {
   margin: 60px;
 }
+
+.container {
+  text-align: end;
+}
+
+.kontakt {
+  display: grid;
+  align-items: end;
+  margin: 60px;
+  padding: 30px;
+}
