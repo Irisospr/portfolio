@@ -11,12 +11,21 @@
   }
 }
 
+.clickable-img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px #cd515b;
+}
+
 a {
   font-family: filosofia, serif;
   font-style: normal;
   font-weight: 700;
   color: #cd515b;
   text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 .logo {
