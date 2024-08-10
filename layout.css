@@ -39,6 +39,33 @@ img.cv {
   margin: 70px;
 }
 
+.slideshow img {
+  max-width: 50%;
+  max-height: 80%;
+  margin: 10px;
+  padding: 10px;
+  object-fit: cover;
+  scroll-snap-align: start;
+}
+
+.slideshow {
+  width: 100%;
+  height: 25rem;
+  margin: 10px;
+  border-radius: 1rem;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.slideshow {
+  display: flex;
+}
+
+.slideshow {
+  position: relative;
+  scroll-snap-type: x mandatory;
+}
+
 @media (min-width: 800px) {
   .grid_1-1 {
     display: grid;
