@@ -123,6 +123,14 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  font-family: filosofia, serif;
+  font-style: normal;
+  font-weight: 700;
+  color: #cd515b;
+  font-size: 35px;
+}
+
 .omtekst,
 p {
   font-family: "futura-pt", sans-serif;

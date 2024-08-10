@@ -35,6 +35,10 @@ img.cv {
   max-height: 100%;
 }
 
+.tema-tekst {
+  margin: 70px;
+}
+
 @media (min-width: 800px) {
   .grid_1-1 {
     display: grid;
