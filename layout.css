@@ -84,3 +84,9 @@ img.imgtema4 {
     gap: 40px;
   }
 }
+
+.containter img.bordi {
+  max-width: 90%; /* Slightly reduce image width on smaller screens */
+  margin-left: auto;
+  margin-right: auto;
+}
