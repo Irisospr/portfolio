@@ -86,7 +86,7 @@ img.imgtema4 {
 }
 
 .containter img.bordi {
-  max-width: 90%; /* Slightly reduce image width on smaller screens */
+  max-width: 90%;
   margin-left: auto;
   margin-right: auto;
 }
