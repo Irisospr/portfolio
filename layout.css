@@ -35,6 +35,16 @@ img.cv {
   max-height: 100%;
 }
 
+img.femsekond {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+img.lighthouse {
+  max-width: 100%;
+  max-height: 100%;
+}
+
 .tema-tekst {
   margin: 70px;
 }
